@@ -1,0 +1,49 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  padding: 44px 0px 18px 0px;
+}
+
+.trashBtn {
+  width: 50px;
+  height: 50px;
+  border: none;
+  background: none;
+}
+
+.btnsWrap {
+  padding-top: 40px;
+  display: flex;
+  gap: 4px;
+}
+
+.directory {
+  margin: 40px 0px 0px 0px;
+}
+
+.choose {
+  margin: 5px 0px 0px 0px;
+}
+
+.cancelBtn {
+  width: 246px;
+  height: 32px;
+  border-radius: 5px;
+  border: none;
+  background-color: #393939;
+  color: white;
+  cursor: pointer;
+}
+
+.successBtn {
+  width: 246px;
+  height: 32px;
+  border-radius: 5px;
+  border: none;
+  background-color: #5e3838;
+  color: #db5c5c;
+  cursor: pointer;
+}

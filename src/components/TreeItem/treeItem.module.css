@@ -1,0 +1,7 @@
+.treeItem {
+  background-color: 'red';
+}
+
+.treeItem_active {
+  background-color: '#343434';
+}
