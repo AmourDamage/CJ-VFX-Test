@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CJ-VFX-Test/static/css/main.0862df52.css",
+    "main.js": "/CJ-VFX-Test/static/js/main.bd6d0b9e.js",
+    "static/js/787.29249346.chunk.js": "/CJ-VFX-Test/static/js/787.29249346.chunk.js",
+    "static/media/Inter-Regular.woff": "/CJ-VFX-Test/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Regular.woff2": "/CJ-VFX-Test/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/trashBtn.svg": "/CJ-VFX-Test/static/media/trashBtn.9cb96ff686c0220d44ae494ca48207b4.svg",
+    "static/media/addBtn.svg": "/CJ-VFX-Test/static/media/addBtn.7d1addd73e996d6002cd.svg",
+    "index.html": "/CJ-VFX-Test/index.html",
+    "main.0862df52.css.map": "/CJ-VFX-Test/static/css/main.0862df52.css.map",
+    "main.bd6d0b9e.js.map": "/CJ-VFX-Test/static/js/main.bd6d0b9e.js.map",
+    "787.29249346.chunk.js.map": "/CJ-VFX-Test/static/js/787.29249346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0862df52.css",
+    "static/js/main.bd6d0b9e.js"
+  ]
+}
