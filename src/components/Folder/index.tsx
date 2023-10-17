@@ -33,12 +33,12 @@ const Folder = ({
 
   const handleDropDownClick = (e: React.MouseEvent<HTMLElement>) => {
     e.stopPropagation();
-    setIsDropDownShown((current: any) => !current);
+    setIsDropDownShown((current: boolean) => !current);
   };
 
   const handleRemoveModalClick = (e: React.MouseEvent<HTMLElement>) => {
     e.stopPropagation();
-    setShowRemoveModal!((current: any) => !current);
+    setShowRemoveModal!((current: boolean) => !current);
   };
 
   return (
