@@ -16,7 +16,7 @@ const AddFolderModal = ({
   const { selectedItemId } = useContext(SelectedItemContext);
   const { updateTree } = useTreeItem();
 
-  const { setShowAddFolderModal, showAddFolderModal, setIsDropDownShown }: any =
+  const { setShowAddFolderModal, showAddFolderModal, setIsDropDownShown } =
     useContext(PopupStateContext);
 
   const handleFolderPopupClose = () => {
